@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm Camilo Valencia! (aka cammv21)
 
-<!--
-**cammv21/cammv21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Software Engineer** with a knack for building robust and scalable applications. I thrive in crafting solutions that simplify complex problems, leveraging cutting-edge technologies and best practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🔧 **Tech Stack**:
+- **Languages**: JavaScript, Python, Ruby
+- **Frameworks**: Node.js, NestJS, React, Next.js, Ruby on Rails
+- **DevOps & Tools**: Docker, Cloud Computing
+
+💡 **Interests**:
+- Exploring all things **DevOps** and **Cloud Computing**
+- Bringing ideas to life through clean and efficient code
+
+🌱 **Currently Learning**:
+- Advanced Docker techniques
+- Enhancing cloud-native application development
+
+---
+
+## 🌟 Featured Project
+
+### [BAS](#)  
+Your description can go here! Share what it does, why it's awesome, or how it solves a real-world problem.
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/camilomvalencia/)
+
+---
+
+## ⚡ Fun Fact
+
+I’m always exploring new tools or techniques to stay ahead in the ever-evolving tech landscape!
