@@ -21,19 +21,3 @@ A passionate **Software Engineer** with a knack for building robust and scalable
 
 ---
 
-## 🌟 Featured Project
-
-### [BAS](#)  
-Your description can go here! Share what it does, why it's awesome, or how it solves a real-world problem.
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/camilomvalencia/)
-
----
-
-## ⚡ Fun Fact
-
-I’m always exploring new tools or techniques to stay ahead in the ever-evolving tech landscape!
