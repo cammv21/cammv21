@@ -2,6 +2,8 @@
 
 A passionate **Software Engineer** with a knack for building robust and scalable applications. I thrive in crafting solutions that simplify complex problems, leveraging cutting-edge technologies and best practices.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cammv21)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🚀 About Me
